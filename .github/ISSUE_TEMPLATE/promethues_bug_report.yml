@@ -1,7 +1,7 @@
-name: PSaaS Bug Report
-description: File a PSaaS bug report
-title: "[PSaaS Bug]: "
-labels: ["bug", "triage", "PSaaS"]
+name: Prometheus Bug Report
+description: File a Prometheus bug report
+title: "[Prometheus Bug]: "
+labels: ["bug", "triage", "Prometheus"]
 assignees:
   - spydmobile
 body:
@@ -32,21 +32,24 @@ body:
       label: Version
       description: What version of our software are you running (if your version is not listed, download the latest instead)?
       options:
-        - (Linux) 2021.11.xx
-        - (Windows) 2021.12.xx
+        - (Release) 6.2.4
+        - (Release) 6.2.3
+        - (Release) 6.2.2
+        - (Dev) 6.2.6.x
+        - (Dev) 2021.xx.xx
     validations:
       required: true
   - type: dropdown
-    id: component
+    id: windows
     attributes:
-      label: What component are you seeing the problem on?
+      label: What version of Windows are you seeing the problem on?
       multiple: true
       options:
-        - Builder
-        - Manager
-        - PSaaS Binary
-        - JS Api
-        - Documentation
+        - Windows 7 32-bit
+        - Windows 7 64-bit
+        - Windows 10 32-bit
+        - Windows 10 64-bit
+        - Windows 11 
         - Other (indicate in "What happened" above)
   - type: textarea
     id: logs
