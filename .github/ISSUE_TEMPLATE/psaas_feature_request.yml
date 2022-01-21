@@ -23,7 +23,7 @@ body:
       label: What is needed?
       description: Also tell us, how you might imagine this is implemented!
       placeholder: Tell us what you want!
-      value: "I would like a purple widget!"
+      value: "I would like a purple widget added to the about screen below the version number!"
     validations:
       required: true
   - type: textarea
