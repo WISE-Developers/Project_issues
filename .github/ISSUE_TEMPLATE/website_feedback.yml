@@ -1,0 +1,36 @@
+name: PSaaS Website Feedback
+description: Offer comments and feedback about the PSaaS Website
+title: "[PSaaS Website Feedback]: "
+labels: ["feature", "triage", "PSaaS"]
+assignees:
+  - spydmobile
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to send us feedback!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: your-thoughts
+    attributes:
+      label: Your thoughts?
+      description: Dont be shy tell us what you really think!
+      placeholder: Tell us what you want!
+      value: "I would like a purple widget added to the about screen below the version number!"
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://firegrowthmodel.com/conduct.html)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
