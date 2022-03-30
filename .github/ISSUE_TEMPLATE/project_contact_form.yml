@@ -1,6 +1,6 @@
 name: Contact The Project
 description: Contact the project directly.
-title: "[PSaaS Bug]: "
+title: "[Contact] Re: "
 labels: ["Communication Required"]
 assignees:
   - spydmobile
@@ -11,7 +11,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for reaching out to us!
+        Thanks for reaching out to us! We are still just volunteers, so this message will go into a queue and someone from the team will read it and respond accordingly.
   - type: textarea
     id: details
     attributes:
@@ -20,17 +20,3 @@ body:
       placeholder: Write your message here!
     validations:
       required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: bash
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://firegrowthmodel.com/conduct.html)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
