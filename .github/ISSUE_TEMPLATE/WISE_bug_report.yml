@@ -1,7 +1,7 @@
-name: PSaaS Bug Report
+name: WISE Bug Report
 description: File a PSaaS bug report
 title: "[WISE Bug]: "
-labels: ["bug", "triage", "W.I.S.E"]
+labels: ["bug", "triage", "W.I.S.E."]
 assignees:
   - spydmobile
 body:
