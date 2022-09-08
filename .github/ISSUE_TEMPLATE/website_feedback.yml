@@ -1,7 +1,7 @@
-name: PSaaS Website Feedback
+name: WISE Website Feedback
 description: Offer comments and feedback about the PSaaS Website
-title: "[PSaaS Website Feedback]: "
-labels: ["feature", "triage", "PSaaS"]
+title: "[WISE Website Feedback]: "
+labels: ["feature", "triage", "W.I.S.E."]
 assignees:
   - spydmobile
 body:
