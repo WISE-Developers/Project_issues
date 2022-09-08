@@ -1,7 +1,7 @@
-name: PSaaS Feature Request
-description: Request a new feature in PSaaS
-title: "[PSaaS FR]: "
-labels: ["feature", "triage", "PSaaS"]
+name: WISE Feature Request
+description: Request a new feature in WISE
+title: "[WISE FR]: "
+labels: ["feature", "triage", "W.I.S.E"]
 assignees:
   - spydmobile
 body:
