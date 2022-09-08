@@ -1,4 +1,4 @@
-# PSaaS Team Project Management
+# W.I.S.E. (Wildfire Intelligence and Simulation Engine) Team Project Management
 This project is used to catch all bugs, tasks and Feature requests as well as website feeback.
 
 
