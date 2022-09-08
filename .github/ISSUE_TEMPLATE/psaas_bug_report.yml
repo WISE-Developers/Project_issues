@@ -1,7 +1,7 @@
 name: PSaaS Bug Report
 description: File a PSaaS bug report
-title: "[PSaaS Bug]: "
-labels: ["bug", "triage", "PSaaS"]
+title: "[WISE Bug]: "
+labels: ["bug", "triage", "W.I.S.E"]
 assignees:
   - spydmobile
 body:
@@ -44,7 +44,7 @@ body:
       options:
         - Builder
         - Manager
-        - PSaaS Binary
+        - WISE Binary
         - JS Api
         - Documentation
         - Other (indicate in "What happened" above)
