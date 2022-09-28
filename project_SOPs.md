@@ -102,17 +102,23 @@ The Developer then works the issue to completion, then either marks of for testi
   - Tester Moves it to the "Work Signoff" Pipeline.
   - Assign to the exec
 - IF Testing Fails
-  - Tester documents test failure in the issue 
+  - Tester must fully document test failure in the issue
+  - Tester removes the "Needs Testing" Label 
   - Tester adds the label "Testing Failed"
   - Tester assigns back to the developer
 
 
   ## When testing fails
   When tests fail, issues are assigned back to the developer, the developer needs to fix what is wrong and try again.
-  - Developer must resolve the issue, 
+  Failed testing possibly indicates the quoted work was not completed If its a regression bug, or if If the item isn't actually complete, subsequent work may be done at the developers expense. If there was a problem in testing, and the tester did not follow intructions, subsequent work may be at the projects expense.
   
+  - Developer must resolve the issue,
+  - Details of the changes and or corrections must be made in the issue in a comment.
+  - Dev removes the "Testing Failed" Label  
+  - Developer adds the "Needs Testing" Label 
   
   ## Developer Issue Scanning
+Developers should be watching their incoming email notifications and fine tuning them so as to reduce desired signal to noise ratio. Recognizing that due to spam filters, and overloaded inboxes, that Email is not a bulletproof apporach, developers will be expencted to login to github and do an issue scan in ZenHub regularly (Minimum once a week) and respond to quesitons and process outstanding issues assigned to them. It is recoomended that developers review **all** issues assigned to them, and make sure that each issue has nothing left unresolved by the developer.
 
 
 
