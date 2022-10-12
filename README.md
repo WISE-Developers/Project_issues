@@ -113,20 +113,31 @@ This repository is the primary project management repo and is used to catch all 
     - Brett and Franco begin visioning on a new Exective to run the project
     - Neal moves from GOA to BC
     - Log4J causes widespread panic in the fire modellign community.
-      - Project puts out a white paper on log4j via CIFFC
-      - Project releases Log4j safe versions of all our applications.
-    - Heartland Software give birth to FireCast
+      - Project puts out a white paper on log4j via CIFFC      
+    - Heartland Software give birth to FireCast Realime Wilsfire modelling powered by PSaaS
+    - Franco and Brett build a new GDAL only cutter service in docker
   - 2022
+    - NWT privately contracts HSS to Automate builds of REDAppLib, REDApp, HSS_Java, WTime, HSS_Math.
+    - Alberta privately contracts HSS to deliver new log4j safe binaries
+    - Project releases Log4j safe versions (2022.03.01) of all our applications.
     - PSaaS Name chosen - Wildfire Intelligence and Simulation Engine (W.I.S.E)
+    - Project begins meeting exclusivly in Discord
+    - Sub Scenarios added to the Engine
+    - Alberta/NWT/Yukon Collaborate on a contract to HSS to run firecast
+    - Assets and Critical Paths added to the Engine
+    - Add optional compression for MQTT file streaming
     - NWT rewrites its DIP modeller and hosts it for the CFS over the season
     - NWT Models all fires operationally using 2 templates, SGP and 3day
+    - NWT Launches Automated pre-Generation of Updated Fire Model Simulation Landscapes for every fire.
     - NWT Integrates FireCast Outputs into its IntelliFire Decision Support System.
     - Forsite - begins discussions of using the engine.
     - CFS deploys its own version of the CFS DIP on Hybrid Solution (Backend at CFS and Front End on AWS)
     - New SOP developed on access to the software before release.
     - AGPLv3 Chosen as the licence
     - Brett begins foundational work on "State of the Project Report"
-    - Team declides to present at Wildland Fire Conference 2022 opts for Wildfire Canda Presentation in Nov.
+    - Team declines to present at Wildland Fire Conference 2022 opts for Wildfire Canda Presentation in Nov.
+    - Project Adopts ZenHub tools to imporve project management on Github.
+    - 
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
