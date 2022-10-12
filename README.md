@@ -16,7 +16,7 @@ This repository is the primary project management repo and is used to catch all 
   - 2014 
     - Franco and Rob Talk out the idea of Automated Prometheus into a viable project Idea
     - Franco and Neal Secure the required legal permissions to proceed
-    - Franco Contracted HSS to build a Prometheus SaaS Prototype aka Prometheus SaaS V.0
+    - GNWT (Franco) Contracted HSS to build a Prometheus SaaS Prototype aka Prometheus SaaS V.0
     - Prototype deployed operationally at Government of the Northwest Teritorries (GNWT)
     - Integrated into the SPARCS decision support system.
     - Comprehensive review with GNWT 
