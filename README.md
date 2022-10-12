@@ -105,7 +105,28 @@ This repository is the primary project management repo and is used to catch all 
       - Github used for Project management
       - Discord Communities
       - Website Update
-    - 2021
+  - 2021
+    - ER2 Project Spawns FireHawk - Web Based Fire Modelling (Using the engine (PSaaS))
+    - CFS discussions on using the engine for the New Burn-P3
+    - NWT Builds the DIP Modelling Service and Models all wildfires in the DIP all season long
+    - LUX/Aerobot - begins discussions of using the engine.
+    - Brett and Franco begin visioning on a new Exective to run the project
+    - Neal moves from GOA to BC
+    - Log4J causes widespread panic in the fire modellign community.
+      - Project puts out a white paper on log4j via CIFFC
+      - Project releases Log4j safe versions of all our applications.
+    - Heartland Software give birth to FireCast
+  - 2022
+    - PSaaS Name chosen - Wildfire Intelligence and Simulation Engine (W.I.S.E)
+    - NWT rewrites its DIP modeller and hosts it for the CFS over the season
+    - NWT Models all fires operationally using 2 templates, SGP and 3day
+    - NWT Integrates FireCast Outputs into its IntelliFire Decision Support System.
+    - Forsite - begins discussions of using the engine.
+    - CFS deploys its own version of the CFS DIP on Hybrid Solution (Backend at CFS and Front End on AWS)
+    - New SOP developed on access to the software before release.
+    - AGPLv3 Chosen as the licence
+    - Brett begins foundational work on "State of the Project Report"
+    - Team declides to present at Wildland Fire Conference 2022 opts for Wildfire Canda Presentation in Nov.
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
