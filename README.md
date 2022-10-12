@@ -23,8 +23,7 @@ This repository is the primary project management repo and is used to catch all 
     - GNWT goes all in, and commits to build 1.0 
     - GNWT agrees to provides annual funding to the project
     - The Project is born
-    - Franco, Neal et al. go on tour druming up support for the idea of moving all projects to SaaS 
-  
+    - Franco, Neal et al. go on tour drumming up support for the idea of moving all projects to SaaS 
   - 2015 began syncronizing codebases of Prometheus, REDApp, Burn-P3 and Prometheus SaaS
   - 2016 Began preparing REDApp to be open source
   - 2017 
@@ -50,8 +49,8 @@ This repository is the primary project management repo and is used to catch all 
     - Javascript API is developed
     - Code begins to move to online repositories at bitbucket
     - CIFFC Toolbox initiative stalls out again - no help for the project
-    - redmine is upgraded and new workflows are developed
-    - documentation (JS API Etc) Goes online
+    - Redmine is upgraded and new workflows are developed
+    - Documentation (JS API Etc) Goes online
     - Government of Canada (CFS/NRCAN) makes verbal commitment to come on board.
     - PSaaS now encompases 
       – Prometheus - EOL
@@ -60,7 +59,7 @@ This repository is the primary project management repo and is used to catch all 
       – Pandora
     - Project forges ahead with PSaaS 7 (Linux)
     - NWT Javascript PSaaS GUI Models its first fire
-    - AB (Brett More) Ran its first model using the Javascript API
+    - AB (Brett Moore) Ran its first model using the Javascript API
     - PSaaS 6.2.3.7 is released to developers and NWT has it growing fires in SPARCS
     - PSaaS 6 and 7 start to diverge in perimiter comparison due to rounding issues
     - PSaaS 6.2.4.3 is released to developers and NWT has it growing fires in SPARCS
@@ -69,8 +68,7 @@ This repository is the primary project management repo and is used to catch all 
     - DEB and RPM installers for PSaaS version 7.2.4.9 released to developers
     - PSaaS Begins to evolve towards multithreading and distributed computing.
     - Adoption of GDAL as input oputput middleware - ensures standards
-    - further development of the FGMJ File Format.
-    - Brett Moore moves from GOA to CFS
+    - Further development of the FGMJ File Format.
     - PSaaS 6.2.5.2 Passes Smoke tests - Released to Developers
     - PSaaS 7.2.5.3 Passes Smoke Tests on primary distros (Some distros fail)
     - Franco Succesfully Integrates PSaaS into Node Red - Node Red Runs a PSaaS Model.
@@ -78,7 +76,7 @@ This repository is the primary project management repo and is used to catch all 
     - Alberta hosts a PSaaS Workshop in Edmonton
     - New Zealand Sucessfully Containerizes PSaaS in Docker
     - Saskatchewan comes on board as a project partner, Rob Kruus joins the team!
-    - proof-of-concept app  "Drop a match" Devloped using leaflet, PSaaS and Node-Red
+    - Proof-of-concept app  "Drop a match" Devloped using leaflet, PSaaS and Node-Red
     - JAVA API Planned
     - NWT Develps the .net API to help Burn-P3 move forward. 
     - PSaaS 6.2.5.5 Passes Smoke tests - Released to Developers
@@ -88,17 +86,18 @@ This repository is the primary project management repo and is used to catch all 
       - process results (postprocessing-scripts)
     - Developed new workplan
     - PHP API Deprecated
-    - The Canadian Fire Growth Modelling Framework Project was born 
   - 2020
     - NWT Develops new PSaaS Docker Containers
     - Prometheus and PSaaS 6.2.5.6 released to devs
     - Finnish Meteorological Institute (FMI) comes on board and begins testing PSaaS
     - Redapp moves to bitbucket
-    - Franco and Bret Develop a dataset cutter using NodeJS and R and GDAL
+    - Franco and Brett Develop a dataset cutter using NodeJS and R and GDAL
     - PSaaS 7.2.5.6 for Ubuntu 20.04 released to devs
     - Formal validation work of 6 against 7 begins.
     - PSaaS and REDApp Discord Communities came online.
     - redmine content reorganized into projects
+    - Brett Moore moves from GOA to CFS
+    - The Canadian Fire Growth Modelling Framework Project was born 
     - Franco and Brett Propose Radical chages to the project Governance and Management
       - All code to github
       - Repo/Branch structure
