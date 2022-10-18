@@ -7,6 +7,10 @@ This repository is the primary project management repo and is used to catch all 
 
 - Project Website: [FireGrowthModel.ca](https://firegrowthmodel.ca/pages/wise_overview_e.html)
 - Project Licence: [Affero General Public License Version 3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
+- API and MQTT Documentation: [Current API Docs](https://firegrowthmodel.ca/pages/wise_documentation_e.html)
+- Project Support Info: [GitHub & Discord etc](https://firegrowthmodel.ca/pages/wise_support_e.html)
+- Source Code: Source Code is not yet released (Source will be available to all when the Project Releases v1.0)
+- Public Release: Targeting a public release of WISE and End-of-life Prometheus by end of the 2022 calendar year.
 - Project Timeline: 
   - 1999 Promethues Fire Growth Model was born
   - 2003 Franco Meets Rob & Cordy at a prometheus course - initial discusions about automation
