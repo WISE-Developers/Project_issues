@@ -1,6 +1,6 @@
 
 # W.I.S.E. (Wildfire Intelligence and Simulation Engine) - Formerly known as PSaaS (Promethues Software as a Service)
-<img src="https://firegrowthmodel.ca/pages/images/wise_logo.png" width="80px"/> 
+![WISE social image](https://github.com/PSaaS-Developers/modelling_framework/blob/main/assets/images/wiserepo.png)
 This repository is the primary project management repo and is used to catch all bugs, tasks and Feature requests as well as website feeback.
 
 ## Project Information
