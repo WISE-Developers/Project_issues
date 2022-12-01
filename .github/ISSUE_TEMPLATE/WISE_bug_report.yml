@@ -58,11 +58,10 @@ body:
     id: approval
     attributes:
       label: Approvals Process
-      description: All to be completed for induction into the tool
+      description: All to be completed for bug fix
       options:
         - label: Testing For Issue
         - label: Executive Approval
         - label: Merge
-        - label: Provide Attribution
       
     
