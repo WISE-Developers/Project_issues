@@ -1,5 +1,5 @@
 name: WISE Bug Report
-description: File a PSaaS bug report
+description: File a WISE bug report
 title: "[WISE Bug]: "
 labels: ["bug", "triage", "W.I.S.E."]
 assignees:
@@ -54,3 +54,15 @@ body:
       label: Relevant log output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
+  - type: checkbox
+    id: approval
+    attributes:
+      label: Approvals Process
+      description: All to be completed for induction into the tool
+      options:
+        - label: Testing For Issue
+        - label: Executive Approval
+        - label: Merge
+        - label: Provide Attribution
+      
+    
