@@ -51,6 +51,8 @@ or [GitHub Discussions](https://github.com/PSaaS-Developers/Project_issues/discu
 
 ## Contributing Code
 
+At this time, ALL contributions from external contributors to the WISE Project must adhere to the policies laid out in this document. Contributors must also agree and abide by the WISE CTA (Currently in draft) which can be viewed here: [WISE DRAFT CTA](/draft/WISE_CTA_DRAFT_v2.md)
+
 ### Considerations for Accepting Patches
 
 While we happily accept patches, we're also committed to keeping WISE simple, lightweight and fast.
