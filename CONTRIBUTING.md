@@ -22,14 +22,14 @@ However, they're not the only way to get involved with WISE development.
 You can help the project tremendously by discovering and [reporting bugs](#reporting-bugs);
 [improving documentation](#improving-documentation);
 helping others on [Discord(WISE Community Support)](https://discord.com/channels/753976083053019216/754017869125386350),
-[GitHub Discussions](https://github.com/PSaaS-Developers/Project_issues/discussions/11)
-and [GitHub issues](https://github.com/PSaaS-Developers/Project_issues/issues);
+[GitHub Discussions](https://github.com/WISE-Developers/Project_issues/discussions/11)
+and [GitHub issues](https://github.com/WISE-Developers/Project_issues/issues);
 and spreading the word about WISE among your colleagues and friends.
 
 ## Reporting Bugs
 
-Before reporting a bug on the project's [issues page](https://github.com/PSaaS-Developers/Project_issues/issues),
-using the [WISE Bug Reporting Template](https://github.com/PSaaS-Developers/Project_issues/issues/new?assignees=spydmobile&labels=bug%2Ctriage%2CW.I.S.E.&template=WISE_bug_report.yml&title=%5BWISE+Bug%5D%3A+)
+Before reporting a bug on the project's [issues page](https://github.com/WISE-Developers/Project_issues/issues),
+using the [WISE Bug Reporting Template](https://github.com/WISE-Developers/Project_issues/issues/new?assignees=spydmobile&labels=bug%2Ctriage%2CW.I.S.E.&template=WISE_bug_report.yml&title=%5BWISE+Bug%5D%3A+)
 first make sure that your issue is caused by WISE, not your application code
 (e.g. passing incorrect arguments to methods, etc.).
 Second, search the already reported issues for similar cases,
@@ -47,7 +47,7 @@ here are some tips for creating a helpful report that will make fixing it much e
 
 If you just want some help with your project,
 try asking on [Discord(WISE Community Support)](https://discord.com/channels/753976083053019216/754017869125386350),
-or [GitHub Discussions](https://github.com/PSaaS-Developers/Project_issues/discussions/11) instead.
+or [GitHub Discussions](https://github.com/WISE-Developers/Project_issues/discussions/11) instead.
 
 ## Contributing Code
 
@@ -60,7 +60,7 @@ So bugfixes, performance optimizations and small improvements that don't add a l
 are much more likely to get accepted quickly.
 
 Before sending a pull request with a new feature, check if it's been discussed before already
-on [GitHub issues](https://github.com/PSaaS-Developers/Project_issues/issues);
+on [GitHub issues](https://github.com/WISE-Developers/Project_issues/issues);
 and ask yourself two questions:
 
  1. Are you sure that this new feature is important enough to justify its presence in the WISE core?
@@ -127,5 +127,5 @@ Report any issues to spydmobile@gmail.com
 ## Thank You
 
 Not only does your contribution to WISE and its community earn our gratitude, but it also makes you AWESOME.
-Join [this approved list of awesome people](https://github.com/PSaaS-Developers/Project_issues/graphs/contributors)
+Join [this approved list of awesome people](https://github.com/WISE-Developers/Project_issues/graphs/contributors)
 and help us push the limits of what's possible with wildfire modelling!
