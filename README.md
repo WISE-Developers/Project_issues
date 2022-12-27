@@ -3,6 +3,13 @@
 ![WISE social image](wiserepo.png)
 This repository is the primary project management repo and is used to catch all bugs, tasks and Feature requests as well as website feeback.
 
+
+## Component Status
+
+[### WISE Builder:](https://github.com/WISE-Developers/WISE_Builder_Component) [![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
+
+
+
 ## Project Information
 
 - Project Website: [FireGrowthModel.ca](https://firegrowthmodel.ca/pages/wise_overview_e.html)
