@@ -6,9 +6,9 @@ This repository is the primary project management repo and is used to catch all 
 
 ## Component Status
 
-[### WISE Builder:](https://github.com/WISE-Developers/WISE_Builder_Component) [![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
+[WISE Builder:](https://github.com/WISE-Developers/WISE_Builder_Component) [![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
 
-
+[WISE Manager:](https://github.com/WISE-Developers/WISE_Manager_Component)[![Maven Package](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml)
 
 ## Project Information
 
