@@ -3,12 +3,25 @@
 ![WISE social image](wiserepo.png)
 This repository is the primary project management repo and is used to catch all bugs, tasks and Feature requests as well as website feeback.
 
+## Pending Initial Release as of Jan 1, 2023
+The First Public Beta Release of WISE is slated for Dec 31 2022/ Jan 1 2023
 
-## Component Status
+The Current Status: We are a day or two behind but our release is still eminent and in progress.
 
-[WISE Builder:](https://github.com/WISE-Developers/WISE_Builder_Component) [![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
 
-[WISE Manager:](https://github.com/WISE-Developers/WISE_Manager_Component)[![Maven Package](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml)
+## Component Build Status
+
+[WISE Builder:](https://github.com/WISE-Developers/WISE_Builder_Component)
+
+[![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
+
+[WISE Manager:](https://github.com/WISE-Developers/WISE_Manager_Component)
+
+[![Maven Package](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Manager_Component/actions/workflows/maven-publish.yml)
+
+[WISE: Versions](https://github.com/WISE-Developers/versions)
+
+[![Monthly Build](https://github.com/WISE-Developers/versions/actions/workflows/month-build.yml/badge.svg)](https://github.com/WISE-Developers/versions/actions/workflows/month-build.yml)
 
 ## Project Information
 
