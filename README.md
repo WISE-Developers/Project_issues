@@ -11,6 +11,10 @@ The Current Status: We are a day or two behind but our release is still eminent 
 
 ## Component Build Status
 
+[WISE Application:](https://github.com/WISE-Developers/WISE_Application)
+[![CMake](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml)
+
+
 [WISE Builder:](https://github.com/WISE-Developers/WISE_Builder_Component)
 
 [![Maven Package](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/WISE-Developers/WISE_Builder_Component/actions/workflows/maven-publish.yml)
