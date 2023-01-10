@@ -12,6 +12,7 @@ The Current Status: We are a day or two behind but our release is still eminent 
 ## Component Build Status
 
 [WISE Application:](https://github.com/WISE-Developers/WISE_Application)
+
 [![CMake](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/WISE-Developers/WISE_Application/actions/workflows/cmake.yml)
 
 
