@@ -38,9 +38,8 @@ The Current Status: We are a day or two behind but our release is still eminent 
 - Public Release: Targeting a public release of WISE and End-of-life Prometheus by end of the 2022 calendar year.
 - Project Timeline: 
   - 1999 Promethues Fire Growth Model was born
-  - 2003 Franco Meets Rob & Cordy at a prometheus course - initial discusions about automation
-  - 2007 Franco takes the promethues course again Meets Neal & Brett - Further discusions about automation ideas
-  - 2010 Franco does a poster display of an Automated Prometheus Concept at kitchener Wildfire Canada Conference
+  - 2007 Franco Attends the prometheus course and formally Meets Cordy Neal & ROb - Initial discusions about automation ideas
+  - 2010 Franco does a poster display of an Automated Prometheus Concept at kitchener Wildfire Canada Conference and meets Brett Moore and Dan Thompson
   - 2012 Franco, Kris and Neal present the REDApp Concept at Kananaskis Wildfire Canada Conference
   - 2014 
     - Franco and Rob Talk out the idea of Automated Prometheus into a viable project Idea
