@@ -228,5 +228,6 @@ branch PrometheusEOL order:2
 merge Prometheus
 commit id: "P_EOL_FUTURE"
 checkout WISE
-commit id: "WISE_FUTURE" 
+commit id: "WISE_FUTURE"
+commit
 ```
