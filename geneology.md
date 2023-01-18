@@ -102,11 +102,16 @@ commit id: "Jan  2017" tag: "GridExt/NukeFBP-COM"
 checkout Prometheus
 commit id: "Feb  2017" tag: "6.2.2"
 checkout PSaaS_Windows
-commit id: "Feb 2017" tag: "6.2.2"
+commit id: " Feb 2017" tag: "6.2.2"
+checkout PrometheusV7
+commit id: " Feb  2017  " tag: "6.2.2"
+checkout PSaaS_Windows
 merge Prometheus
 commit id:"  .  "
 checkout Prometheus
 commit id:" .  "
+checkout PrometheusV7
+commit id:"      "
 ```
 
 ## Phase 4: Feb 2017 - Dec 2022
@@ -120,16 +125,16 @@ commit id:" .  "
 gitGraph
 branch PrometheusV7 order: 3
 checkout PrometheusV7
-commit
+commit id: "Feb  2017" tag: "6.2.2"
 checkout Prometheus
 branch PSaaS_Windows order:0
 checkout PSaaS_Windows
-commit id:"."
+commit id: " Feb  2017" tag: "6.2.2"
 
 checkout Prometheus
-commit id:". "
+commit id: " Feb  2017 " tag: "6.2.2"
 checkout PSaaS_Windows
-commit id: "Jan 2018"
+commit id: "Jan 2018" type:REVERSE
 
 branch PSaaS_7 order: 2
 branch PSaaS_6 order: 1
@@ -145,7 +150,7 @@ commit id: "June 2018" tag: "6.2.3.11"
 
 checkout PSaaS_6
 merge Prometheus
-commit id: " June 2018" tag: "6.2.3.11"
+commit id: " June 2018" tag: "6.2.3.11" type:REVERSE
 checkout PSaaS_7
 merge PSaaS_6
 commit id: "  June 2018" tag: "6.2.3.11"
