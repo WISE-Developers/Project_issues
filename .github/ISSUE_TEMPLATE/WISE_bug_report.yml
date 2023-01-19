@@ -32,8 +32,9 @@ body:
       label: Version
       description: What version of our software are you running (if your version is not listed, download the latest instead)?
       options:
-        - (Linux) 2021.11.xx
-        - (Windows) 2021.12.xx
+        - (Ubuntu 2020) v1.0.0-beta
+        - (Ubuntu 2022) v1.0.0-beta
+        - (Windows) v1.0.0-beta
     validations:
       required: true
   - type: dropdown
