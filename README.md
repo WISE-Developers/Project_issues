@@ -5,7 +5,7 @@ Formerly known as PSaaS (Promethues Software as a Service)
 
 <div align="center">
 
-![WISE social image](wiserepo.png)
+![WISE social image](wiserepo_small.png)
 
 
 [![licence badge]][licence link]
