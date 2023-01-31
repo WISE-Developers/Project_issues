@@ -1,10 +1,10 @@
 
 # W.I.S.E. (Wildfire Intelligence and Simulation Engine) - Formerly known as PSaaS (Promethues Software as a Service)
 
+<div align="center">
+
 ![WISE social image](wiserepo.png)
 
-<div align="center">
-  
 [![discord badge]][discord link]
 
 [discord badge]: https://flat.badgen.net/discord/members/HTfn6MGyCb?icon=discord
