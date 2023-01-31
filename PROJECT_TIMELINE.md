@@ -1,4 +1,4 @@
-# WISE Project Timeline
+# WISE Project Timeline Prior to Public Release
 
 - Project Timeline: 
   - 1999 Promethues Fire Growth Model was born
@@ -129,4 +129,5 @@
     - Brett begins foundational work on "State of the Project Report"
     - Team declines to present at Wildland Fire Conference 2022 opts for Wildfire Canda Presentation in Nov.
     - Project Adopts ZenHub tools to imporve project management on Github.
-    - 
+   - 2023
+     - Jan 19, 2023 Project goes open source and makes a first public release of 1.0.0-beta
