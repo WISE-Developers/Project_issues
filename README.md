@@ -1,12 +1,15 @@
 
 # W.I.S.E. (Wildfire Intelligence and Simulation Engine) - Formerly known as PSaaS (Promethues Software as a Service)
 
+![WISE social image](wiserepo.png)
+
+<div align="center">
 [![discord badge]][discord link]
 
 [discord badge]: https://flat.badgen.net/discord/members/HTfn6MGyCb?icon=discord
 [discord link]: https://discord.gg/HTfn6MGyCb
+</div>
 
-![WISE social image](wiserepo.png)
 This repository is the primary project management repo and is used to catch all bugs, tasks and Feature requests as well as website feeback.
 
 ## Pending Initial Release as of Jan 1, 2023
