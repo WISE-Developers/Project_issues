@@ -1,6 +1,6 @@
 # Project Geneology
 
-This document illustrates the evolution of the Promethes Fire Growth Model into the Wildfire Intelligence and Simulation Engine (WISE) using a series of GIT style diagrams.
+This document illustrates the evolution of the Prometheus Fire Growth Model into the Wildfire Intelligence and Simulation Engine (WISE) using a series of GIT style diagrams.
 
 ## Phase 1: 1999 - Nov 2014
 
