@@ -18,36 +18,36 @@ Formerly known as PSaaS (Promethues Software as a Service)
 
 [![github open issues badge]][github open issues link] [![github open app prs badge]][github open prs link]
 
-[CI checks on main badge]: https://flat.badgen.net/github/status/WISE-Developers/WISE_Application/main?label=CI%20status%20on%20main&cache=900&icon=github
+[CI checks on main badge]: https://flat.badgen.net/github/status/WISE-Developers/WISE_Application/main?label=CI%20status%20on%20main&cache=900&icon=github&scale=2
 
 
 [CI checks on main link]: https://github.com/WISE-Developers/WISE_Application/actions/workflows/test-invoke-conda.yml
 
 
-[licence badge]: https://flat.badgen.net/github/license/WISE-Developers/Project_issues
+[licence badge]: https://flat.badgen.net/github/license/WISE-Developers/Project_issues?icon=github&scale=2
 
-[licence link]: https://github.com/WISE-Developers/Project_issues/blob/main/LICENSE?icon=github
+[licence link]: https://github.com/WISE-Developers/Project_issues/blob/main/LICENSE
 
-[discord badge]: https://flat.badgen.net/discord/members/HTfn6MGyCb?icon=discord
+[discord badge]: https://flat.badgen.net/discord/members/HTfn6MGyCb?icon=discord&scale=2
 [discord link]: https://discord.gg/HTfn6MGyCb
 
-[latest release badge]: https://flat.badgen.net/github/release/WISE-Developers/WISE_Application/main?icon=github
+[latest release badge]: https://flat.badgen.net/github/release/WISE-Developers/WISE_Application/main?icon=github&scale=2
 
 [latest release link]: https://github.com/WISE-Developers/WISE_Application/releases
 
-[github stars badge]: https://flat.badgen.net/github/stars/WISE-Developers/WISE_Application?icon=github
+[github stars badge]: https://flat.badgen.net/github/stars/WISE-Developers/WISE_Application?icon=github&scale=2
 
 [github stars link]: https://github.com/WISE-Developers/WISE_Application/stargazers
 
-[github open issues badge]: https://flat.badgen.net/github/open-issues/WISE-Developers/Project_issues?icon=github
+[github open issues badge]: https://flat.badgen.net/github/open-issues/WISE-Developers/Project_issues?icon=github&scale=2
 
 [github open issues link]: https://github.com/WISE-Developers/Project_issues/issues?q=is%3Aopen+is%3Aissue
 
-[github open app prs badge]: https://flat.badgen.net/github/open-prs/WISE-Developers/WISE_Application?icon=github&label=Open%20App%20PRs
+[github open app prs badge]: https://flat.badgen.net/github/open-prs/WISE-Developers/WISE_Application?icon=github&scale=2&label=Open%20App%20PRs
 
 [github open prs link]: https://github.com/WISE-Developers/WISE_Application/pulls?q=is%3Apr+is%3Aopen
   
-[latest commit to app badge]: https://flat.badgen.net/github/last-commit/WISE-Developers/WISE_Application/main?icon=github&color=yellow&label=last%20App%20commit&cache=900
+[latest commit to app badge]: https://flat.badgen.net/github/last-commit/WISE-Developers/WISE_Application/main?icon=github&scale=2&color=yellow&label=last%20App%20commit&cache=900
 
 [latest commit to app link]: https://github.com/WISE-Developers/WISE_Application/commits/main
   
