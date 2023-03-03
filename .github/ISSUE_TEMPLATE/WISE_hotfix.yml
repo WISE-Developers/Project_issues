@@ -1,0 +1,81 @@
+name: WISE Hotfix
+description: File a WISE hotifx
+title: "[WISE Hotfix]: "
+labels: ["hotfix", "W.I.S.E."]
+assignees:
+  - spydmobile
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this hotfix report! By submitting this issue, you agree to follow our [Code of Conduct](https://firegrowthmodel.ca/pages/conduct.html)
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+  - type: textarea
+    id: who-is-fixing
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+  - type: textarea
+    id: why-does-it-matter
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running (if your version is not listed, download the latest instead)?
+      options:
+        - (Ubuntu 2020) v1.0.0-beta
+        - (Ubuntu 2022) v1.0.0-beta
+        - (Windows) v1.0.0-beta
+    validations:
+      required: true
+  - type: dropdown
+    id: component
+    attributes:
+      label: What component are you seeing the problem on?
+      multiple: true
+      options:
+        - Builder
+        - Manager
+        - WISE Binary
+        - JS Api
+        - Documentation
+        - Other (indicate in "What happened" above)
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+  - type: checkboxes
+    id: approval
+    attributes:
+      label: Approvals Process
+      description: All to be completed for bug fix
+      options:
+        - label: Pull Request 
+        - label: Merge
+      
+    
