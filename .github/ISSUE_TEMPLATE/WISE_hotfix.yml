@@ -23,21 +23,21 @@ body:
       label: What happened?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: "I fixed a thing!"
   - type: textarea
     id: who-is-fixing
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Who is fixing?
+      description: Who is going to do this work?
+      placeholder: Give us the who!
+      value: "X is going to fix it"
   - type: textarea
     id: why-does-it-matter
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Why does this matter?
+      description: Why is this fix necessary?
+      placeholder: Give us the why!
+      value: "This is why"
     validations:
       required: true
   - type: dropdown
